@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+}
+
+div.rettangolo{
+    width: 400px;
+    height: 500px;
+    background-color: rgb(207, 204, 204);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    
+}
+.centrofoto{
+    display: block;
+    padding-top: 50px;
+    padding-left: 50px;
+    
+}
+.sconto-verde{
+    width: 40px;
+    height: 20px;
+    background-color: green;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+
